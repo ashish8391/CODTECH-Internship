@@ -1,0 +1,14 @@
+hello hi hey
+Hello! How can I help you?
+
+what is ai
+AI stands for Artificial Intelligence. It enables machines to think and learn.
+
+what is machine learning
+Machine learning is a subset of AI that allows systems to learn from data.
+
+what is nlp
+NLP stands for Natural Language Processing. It helps machines understand human language.
+
+bye exit quit
+Goodbye! Have a nice day.
